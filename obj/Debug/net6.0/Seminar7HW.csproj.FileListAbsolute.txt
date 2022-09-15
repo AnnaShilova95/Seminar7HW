@@ -1,0 +1,15 @@
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\bin\Debug\net6.0\Seminar7HW.exe
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\bin\Debug\net6.0\Seminar7HW.deps.json
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\bin\Debug\net6.0\Seminar7HW.runtimeconfig.json
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\bin\Debug\net6.0\Seminar7HW.dll
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\bin\Debug\net6.0\Seminar7HW.pdb
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.AssemblyInfo.cs
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.dll
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\refint\Seminar7HW.dll
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.pdb
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\Seminar7HW.genruntimeconfig.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar7HW\obj\Debug\net6.0\ref\Seminar7HW.dll
